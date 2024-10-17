@@ -1,0 +1,598 @@
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.AssemblyReference.cache
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.BuscadorProductos.resources
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Factura.resources
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Menu.resources
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Productos.resources
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Properties.Resources.resources
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores.resources
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores_Pagos.resources
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Stock.resources
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.StockHijo.resources
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.GenerateResource.cache
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfoInputs.cache
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfo.cs
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CoreCompileInputs.cache
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.exe
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.deps.json
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.json
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.dev.json
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\Enums.NET.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.xmlworker.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.Fonts.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.ImageSharp.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Formats.Asn1.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\Zen.Barcode.Core.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.pdb
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CopyComplete
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\refint\DonPaulo.dll
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.genruntimeconfig.cache
+C:\Users\julia\Source\Repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\ref\DonPaulo.dll
+C:\Users\julia\source\repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.CajaDiario.resources
+C:\Users\julia\source\repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Gastos.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.exe
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.deps.json
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.json
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.dev.json
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\Enums.NET.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.xmlworker.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.Fonts.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.ImageSharp.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Formats.Asn1.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\Zen.Barcode.Core.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.pdb
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.BuscadorProductos.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.CajaDiario.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Factura.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Gastos.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Menu.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Productos.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Properties.Resources.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores_Pagos.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Stock.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.StockHijo.resources
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CopyComplete
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\refint\DonPaulo.dll
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Escritorio\Nueva carpeta\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\ref\DonPaulo.dll
+C:\Users\julia\source\repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.DetalleVenta.resources
+C:\Users\julia\source\repos\DonPauloFinal\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.RegistroVentas.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.exe
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.deps.json
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.json
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.dev.json
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\Enums.NET.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.xmlworker.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.Fonts.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.ImageSharp.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Formats.Asn1.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\Zen.Barcode.Core.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.pdb
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.BuscadorProductos.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.CajaDiario.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.DetalleVenta.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Factura.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Gastos.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Menu.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Productos.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Properties.Resources.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores_Pagos.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.RegistroVentas.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Stock.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.StockHijo.resources
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.GenerateResource.cache
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfo.cs
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CopyComplete
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\refint\DonPaulo.dll
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.genruntimeconfig.cache
+C:\Users\julia\source\repos\DonPaulo V01\TuCompraAGranel\obj\Debug\net5.0-windows\ref\DonPaulo.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.exe
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.deps.json
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.json
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.dev.json
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\Enums.NET.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.xmlworker.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.Fonts.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.ImageSharp.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Formats.Asn1.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\Zen.Barcode.Core.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.pdb
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.BuscadorProductos.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.CajaDiario.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.DetalleVenta.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Factura.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Gastos.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Menu.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Productos.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Properties.Resources.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores_Pagos.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.RegistroVentas.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Stock.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.StockHijo.resources
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.GenerateResource.cache
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfo.cs
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CopyComplete
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\refint\DonPaulo.dll
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.genruntimeconfig.cache
+C:\Users\julia\source\repos\DonPaulo V\TuCompraAGranel\obj\Debug\net5.0-windows\ref\DonPaulo.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.exe
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.deps.json
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.json
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.dev.json
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\Enums.NET.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.xmlworker.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.Fonts.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.ImageSharp.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Formats.Asn1.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\Zen.Barcode.Core.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.pdb
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.AssemblyReference.cache
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.BuscadorProductos.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.CajaDiario.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.DetalleVenta.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Factura.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Form1.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Gastos.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Menu.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Productos.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Properties.Resources.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores_Pagos.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.RegistroVentas.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Stock.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.StockHijo.resources
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.GenerateResource.cache
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfoInputs.cache
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfo.cs
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CoreCompileInputs.cache
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CopyComplete
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\refint\DonPaulo.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.genruntimeconfig.cache
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\ref\DonPaulo.dll
+C:\Users\sistemas2\source\repos\Don Paulo V\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Form2.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.exe
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.deps.json
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.json
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.dev.json
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\Enums.NET.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.xmlworker.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.Fonts.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.ImageSharp.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Formats.Asn1.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\Zen.Barcode.Core.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.pdb
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.AssemblyReference.cache
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.BuscadorProductos.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.CajaDiario.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.DetalleVenta.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Factura.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Form1.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Form2.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Gastos.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Menu.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Productos.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Properties.Resources.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores_Pagos.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.RegistroVentas.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Stock.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.StockHijo.resources
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.GenerateResource.cache
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfoInputs.cache
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfo.cs
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CoreCompileInputs.cache
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.Up2Date
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\refint\DonPaulo.dll
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.genruntimeconfig.cache
+C:\Users\gbera\OneDrive\Escritorio\Archivo Actual\Don Paulo V7\TuCompraAGranel\obj\Debug\net5.0-windows\ref\DonPaulo.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.exe
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.deps.json
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.json
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.dev.json
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\Enums.NET.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.xmlworker.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.Fonts.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.ImageSharp.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Formats.Asn1.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\Zen.Barcode.Core.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.pdb
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.AssemblyReference.cache
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.BuscadorProductos.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.CajaDiario.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.DetalleVenta.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Factura.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Form1.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Form2.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Gastos.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Menu.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Productos.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Properties.Resources.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores_Pagos.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.RegistroVentas.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Stock.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.StockHijo.resources
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.GenerateResource.cache
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfoInputs.cache
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfo.cs
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CopyComplete
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\refint\DonPaulo.dll
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.genruntimeconfig.cache
+C:\Users\julia\Downloads\Don Paulo V8\TuCompraAGranel\obj\Debug\net5.0-windows\ref\DonPaulo.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.exe
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.deps.json
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.json
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.runtimeconfig.dev.json
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\Enums.NET.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\itextsharp.xmlworker.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\MathNet.Numerics.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.Fonts.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\SixLabors.ImageSharp.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Formats.Asn1.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.AccessControl.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Security.Permissions.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\System.Windows.Extensions.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\Zen.Barcode.Core.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\bin\Debug\net5.0-windows\ClassLibrary1.pdb
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.AssemblyReference.cache
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.BuscadorProductos.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.CajaDiario.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.DetalleVenta.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Factura.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Form1.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Form2.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Gastos.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Menu.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\TuCompraAGranel.Productos.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Properties.Resources.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Proveedores_Pagos.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.RegistroVentas.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.Stock.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.StockHijo.resources
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.GenerateResource.cache
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfoInputs.cache
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.AssemblyInfo.cs
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.csproj.CopyComplete
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\refint\DonPaulo.dll
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.pdb
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\DonPaulo.genruntimeconfig.cache
+C:\Users\julia\Downloads\Don Paulo V9\TuCompraAGranel\obj\Debug\net5.0-windows\ref\DonPaulo.dll

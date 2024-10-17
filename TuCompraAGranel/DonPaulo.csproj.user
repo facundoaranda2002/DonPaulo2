@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="BuscadorProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CajaDiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetalleVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistroVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gastos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Proveedores_Pagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockHijo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
